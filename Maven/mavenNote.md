@@ -50,6 +50,28 @@ service层的拆分
 ![image](https://github.com/Kitoali/JavaNote/assets/54657765/a521b985-6507-4b58-bdb7-3580af14cbd7)
 ![image](https://github.com/Kitoali/JavaNote/assets/54657765/fcaa9136-ef18-4181-9af4-afc1dcd28a31) 
 
+多环境兼容问题，
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/18e5435d-070a-40e9-a2ff-7d50da8bc613)
+多环境配置，使用频率高的配置默认启动
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/03f12db5-2c55-4820-84d9-fd80a032c94f)
+
+
+跳过测试
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/292660db-6a9c-4914-9a21-b5955c70c3b0)
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/3630996a-e6b6-4d02-a77f-7aff26b630cc)
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/f336b621-de72-45b9-bbb8-e6a04f51ccc8)
+
+
+配置私服
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/6adcb1b4-b41e-4d65-b544-57a204f0ef8b)
+
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/2ac018f5-ad41-46f7-bead-714a6820eb02)
+私服配置上传
+![image](https://github.com/Kitoali/JavaNote/assets/54657765/019a0ec3-1a64-4173-a593-858a2d7b5fff)
+
+ 
+ 
+
 
 
 
